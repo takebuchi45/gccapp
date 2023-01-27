@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gccapp/static/css/main.774dd774.css",
+    "main.js": "/gccapp/static/js/main.f5c13e9b.js",
+    "static/js/787.7a519574.chunk.js": "/gccapp/static/js/787.7a519574.chunk.js",
+    "index.html": "/gccapp/index.html",
+    "main.774dd774.css.map": "/gccapp/static/css/main.774dd774.css.map",
+    "main.f5c13e9b.js.map": "/gccapp/static/js/main.f5c13e9b.js.map",
+    "787.7a519574.chunk.js.map": "/gccapp/static/js/787.7a519574.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.774dd774.css",
+    "static/js/main.f5c13e9b.js"
+  ]
+}
